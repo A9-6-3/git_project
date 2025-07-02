@@ -1,3 +1,5 @@
 start  github
 
 change user and email
+
+git fetch,checkout and git pull
